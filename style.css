@@ -1,0 +1,171 @@
+#a {
+    text-align: right;
+    color: rgb(36, 33, 33);
+}
+
+
+#abc{
+    border-style: solid;
+}
+
+#pretwo{
+    text-align: right;
+}
+
+#x{
+    border-style: solid;
+    border-radius: 15px;
+    background-color: blue;
+    color: white;
+    cursor: pointer;
+}
+
+/* #india{
+    border-style: solid;
+    border-width: 2px;
+} */
+
+#abcd{
+    display: inline-block; 
+    text-align: right;
+}
+
+#about, #ad, #bu, #hsw, #india, #pri, #te, #st{
+    text-decoration: none;
+    color: rgb(36, 33, 33);
+    margin-right: 15px;
+}
+
+#about{
+    margin-left: 10px;
+}
+
+#india{
+    margin-left: 10px;
+}
+
+
+footer{
+    
+    border-style: solid;
+    border-width: 1px;
+    background-color: #ccc;
+    position: fixed;
+    bottom: 0px;
+    right: 0px;
+    left: 0px;
+}
+
+/* main{
+    height: 570PX;
+} */
+
+#pri{
+    margin-left: 722px;
+}
+
+/* body{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    height: 100vh;
+    font-family: Arial, Helvetica, sans-serif;
+    background-color: #f8f9fa;
+} */
+
+body{
+    font-family: Arial, Helvetica, sans-serif;
+}
+
+#search-container{
+    text-align: center;
+}
+
+#search-bar{
+    width: 300px;
+    padding: 10px;
+    border: 1px solid #ccc;
+    border-radius: 4px;
+    font-size: 16px;
+}
+
+.search-button{
+    padding: 10px 20px;
+    border: none;
+    background-color: #4285f4;
+    color: white;
+    font-size: 16px;
+    border-radius: 4px;
+    cursor: pointer; 
+    margin-left: 10px;
+}
+
+.search-button:hover{
+    background-color: #357ae8;
+}
+
+
+.google_search{
+    text-align: center;
+    margin-top: 30px;
+    margin-bottom: 30px;
+}
+
+#gs{
+    border-style: solid;
+    border-width: 1px;
+    padding: 4px;
+    border-radius: 4px;
+    border-color: #ccc;
+    background-color: #ccc;
+    color: rgb(36, 33, 33);
+    cursor: pointer;
+    text-decoration: none;
+}
+
+#ifl{
+    border-style: solid;
+    border-width: 1px;
+    padding: 4px;
+    border-radius: 4px;
+    border-color: #ccc;
+    background-color: #ccc;
+    margin-left: 10px;
+    color: rgb(36, 33, 33);
+    cursor: pointer;
+    text-decoration: none;
+}
+
+/* style="margin-right: 7px; text-decoration: none; color: rgb(36, 33, 33); cursor: pointer;" */
+
+.gmail{
+    margin-right: 7px; 
+    text-decoration: none; 
+    color: rgb(36, 33, 33); 
+    cursor: pointer;
+}
+
+/* style="margin-right: 7px; text-decoration: none; color: rgb(36, 33, 33); cursor: pointer;" */
+
+.image12{
+    margin-right: 7px; 
+    text-decoration: none; 
+    color: rgb(36, 33, 33); 
+    cursor: pointer;
+}
+
+/* style="margin-right: 7px; text-decoration: none; color: rgb(36, 33, 33); cursor: pointer;" */
+
+.apps{
+    margin-right: 7px; 
+    text-decoration: none; 
+    color: rgb(36, 33, 33); 
+    cursor: pointer;
+}
+
+/* style="margin-right: 7px; cursor: pointer;" */
+
+.sign_in1{
+    margin-right: 7px; 
+    cursor: pointer;
+}
